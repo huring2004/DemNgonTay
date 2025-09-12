@@ -1,3 +1,4 @@
+# Đếm số ngón tay bằng python
 1. pip install cmake
 2. conda install-c conda-forge dlib
 3. Opencv: conda install-c menpo opencv
